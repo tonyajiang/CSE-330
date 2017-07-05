@@ -1,0 +1,13 @@
+Ben Trunnel 444667
+Tonya Jiang 444524
+
+http://ec2-54-173-49-119.compute-1.amazonaws.com/~jiangt/module2/filesharing.php
+
+Creative Portion:
+1. Adding Users
+2. Deleting Users
+
+Login Info:
+Current registered users [trunnelben, tonya, TAtest]
+Or create a new user
+

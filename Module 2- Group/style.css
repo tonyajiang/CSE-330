@@ -1,0 +1,28 @@
+body{
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	text-align: center;
+}
+h1{
+	color: Maroon;
+	font-size: 40px;
+	letter-spacing: 2px;
+}
+input[type=text]{
+	border-radius: 4px;
+	padding: 8px 12px;
+}
+input[type=button], input[type=submit], input[type=reset] {
+    background-color: Maroon;
+    border: none;
+    color: white;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+    padding: 8px 12px;
+    text-decoration: none;
+    margin: 6px 4px;
+    cursor: pointer;
+	border-radius: 4px;
+}
+a{
+	text-align: center;
+	text-decoration: none;
+}
